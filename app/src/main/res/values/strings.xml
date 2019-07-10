@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTestKotlin01</string>
+    <string name="home_page">首页</string>
+    <string name="discover">发现</string>
+    <string name="hot_door">热门</string>
+    <string name="mine">我的</string>
+</resources>
